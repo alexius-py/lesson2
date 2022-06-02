@@ -82,4 +82,4 @@ while True:
         else:
             print(name_users, "твоя оценка ОТЛИЧНО!!!")
     else:
-        two_game = input("Повторим д (да)/н (нет) :")
+        two_game = input("Повторим д (да)/н (нет):")

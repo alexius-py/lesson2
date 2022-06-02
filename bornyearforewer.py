@@ -1,4 +1,4 @@
-year = ""
+year = ''
 while not year.isdigit():
     year = input("Введите год рождения А. С. Пушкина: ")
 year = int(year)
